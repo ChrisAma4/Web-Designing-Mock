@@ -66,7 +66,15 @@ p {
     }
 .web-des {
     position: fixed;
-    width: 30%;
+    width: 510px;
+    height: 375px;
     left: 10%;
     top: 60%;
+}
+.whiteboard {
+    position: fixed;
+    width: 510px;
+    height: 375px;
+    top: 60%;
+    right: 10%;
 }
